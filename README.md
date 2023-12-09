@@ -1,2 +1,2 @@
-# SpringBoot
+# springboot
 JPA, Maven, Spring boot, Java 
